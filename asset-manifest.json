@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/barbyabr/pokedex.git/static/css/main.accd1686.css",
-    "main.js": "/barbyabr/pokedex.git/static/js/main.9f3bfbf4.js",
-    "index.html": "/barbyabr/pokedex.git/index.html",
-    "main.accd1686.css.map": "/barbyabr/pokedex.git/static/css/main.accd1686.css.map",
-    "main.9f3bfbf4.js.map": "/barbyabr/pokedex.git/static/js/main.9f3bfbf4.js.map"
+    "main.css": "/pokedex/static/css/main.accd1686.css",
+    "main.js": "/pokedex/static/js/main.9f3bfbf4.js",
+    "index.html": "/pokedex/index.html",
+    "main.accd1686.css.map": "/pokedex/static/css/main.accd1686.css.map",
+    "main.9f3bfbf4.js.map": "/pokedex/static/js/main.9f3bfbf4.js.map"
   },
   "entrypoints": [
     "static/css/main.accd1686.css",
